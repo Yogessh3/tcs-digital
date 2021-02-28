@@ -1,0 +1,156 @@
+Topics to be covered: Array, String, Math Concepts, Permutations and Combinations
+
+Array Problems
+
+LEVEL-1
+
+1) Check if a key is present in every segment of size k in an array
+2) Find the minimum and maximum element in an array
+3) Write a program to reverse the array
+4) Write a program to sort the given array
+5) Find the Kth largest and Kth smallest number in an array
+6) Find the occurrence of an integer in the array
+7) Sort the array of 0s, 1s, and 2s
+8) Range and Coffiecient of array
+9) Move all the negative elements to one side of the array
+10) Find the Union and Intersection of the two sorted arrays
+
+LEVEL-2
+
+1) Write a program to cyclically rotate an array by one
+2) Find the missing integer
+3) Count Pairs with given sum
+4) Find duplicates in an array
+5) Sort an Array using Quicksort algorithm
+6) Find common elements in three sorted arrays
+7) Find the first repeating element in an array of integers
+8) Find the first non-repeating element in a given array of integers
+9) Find the largest three elements in an array Time
+10) Rearrange the array in alternating positive and negative items
+11) Find if there is any subarray with sum equal to zero
+12) Find Largest sum contiguous Subarray
+13) Find the factorial of a large number
+14) Find Maximum Product Subarray
+15) Find longest consecutive subsequence
+16) Find the minimum element in a rotated and sorted array
+17) Find all elements that appear more than N/K times
+18) GCD of given index ranges in an array
+19) Minimize the maximum difference between the heights
+20) Minimum number of Jumps to reach end
+21) Find the two repetitive elements in a given array
+22) Find a triplet that sum to a given value
+23) Construct a N*M matrix from the user input
+24) Find the row with maximum number of 1’s
+25) Print the matrix in a Spiral manner
+26) Find whether an array is a subset of another array
+27) Implement two Stacks in an array
+28) Majority Element
+29) Wave Array
+30) Trapping Rain water
+
+LEVEL-3
+
+1) Maximum Index
+2) Max sum path in two arrays
+3) Find Missing And Repeating
+4) Stock buy and sell Problem
+5) Pair with given sum in a sorted array
+6) Chocolate Distribution Problem
+7) Longest Consecutive Subsequence
+8) Print all possible combinations of r elements in a given array
+9) Coin Change Problem
+10) Longest Alternating subsequence
+
+String Problems
+
+1) How do you reverse a given string in place? 
+2) How do you print duplicate characters from a string? 
+3) How do you check if two strings are anagrams of each other? 
+4) How do you find all the permutations of a string? 
+5) How can a given string be reversed using recursion? 
+6) How do you check if a string contains only digits? 
+7) How do you find duplicate characters in a given string? 
+8) How do you count a number of vowels and consonants in a given string? 
+9) How do you count the occurrence of a given character in a string? 
+10) How do you print the first non-repeated character from a string? 
+11) How do you convert a given String into int like the atoi()? 
+12) How do you reverse words in a given sentence without using any library method? 
+13) How do you check if two strings are a rotation of each other? 
+14) How do you check if a given string is a palindrome? 
+15) How do you find the length of the longest substring without repeating characters? 
+16) Given string str, How do you find the longest palindromic substring in str? 
+17) How to convert a byte array to String? 
+18) How to remove the duplicate character from String? 
+19) How to find the maximum occurring character in given String? 
+20) How do you remove a given character from String?
+21) Given an array of strings, find the most frequent word in a given array, I mean, the string that appears the most in the array. In the case of a tie, ​the string that is the smallest (lexicographically) ​is printed. 
+
+TCS Digital Previously asked questions
+
+1) Write a program to find the count of numbers which consists of unique digits.
+Input: Input consist of two Integer lower and upper value of an range
+Output: Output consists of single line, print the count of unique digits in given range. Else Print"No Unique Number"
+
+2) There is a range given n and m in which we have to find the count all the prime pairs whose difference is 6. We have to find how many sets are there within a given range.
+Output: Output consists of single line, print the count prime pairs in given range. Else print"No Prime Pairs".
+Constraints:
+
+2<=n<=1000
+n<=m<=2000
+
+Sample Input:
+
+4
+30
+
+Output:
+
+6
+
+Explanation: 
+
+(5, 11) (7, 13) (11, 17) (13, 19) (17, 23) (23, 29) . we have 6 prime pairs.
+
+3) Write a program to print all the combinations of the given word with or without meaning (when unique characters are given).
+
+Sample Input:
+
+abc
+
+Output:
+
+abc
+acb
+bac
+bca
+cba
+cab
+
+4) Bastin once had trouble finding the numbers in a string. The numbers are distributed in a string across various test cases. There are various numbers in each test case you need to find the number in each test case. Each test case has various numbers in sequence. You need to find only those numbers which do not contain 9. For eg, if the string contains "hello this is alpha 5051 and 9475".You will extract 5051 and not 9475. You need only those numbers which are consecutive and you need to help him find the numbers. Print the largest number.
+
+Note: Use long long for storing the numbers from the string.
+
+Input:
+The first line consists of T test cases and next T lines contain a string.
+
+Output:
+For each string output the number stored in that string if various numbers are there print the largest one. If a string has no numbers print -1.
+
+Constraints:
+
+1<=T<=100
+1<=|S|<=10000
+
+Example:
+
+Input:
+1
+
+This is alpha 5057 and 97
+
+Output:
+5057
+ 
+
+
+
