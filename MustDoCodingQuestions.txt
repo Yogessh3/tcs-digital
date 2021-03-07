@@ -1,0 +1,96 @@
+70 Curated Questions for TCS Digital
+--------
+1) Prime Number (seive algorithm)
+2) Fibonacci Series (nth fibonacci trick)
+3) Factorial
+4) Trailing zeros in a factorial
+------
+5) Maximum Subarray sum
+6) Max Subset sum with no adjacent
+7) Subarray with given Sum
+------
+7) Monotonic array
+8) Find a peak in the array
+9) Shifted Binary Search
+10) Binary Search
+------
+11) Balanced Brackets
+------
+12) Prefix Sum array
+13) Suffix Sum array
+------
+14) Kth smallest element
+15) Kth largest element
+------
+16) Sort array of 0's,1's and 2's
+17) Move element to end with and without relative order
+18) Rotate array (left and right)
+19) Check if an array is sorted and rotated
+20) Sort the array elements based on frequency
+21) Sort the array elements based on length
+------
+22) Anagram Check
+23) Palindrome check
+24) Group Anagrams
+25) Caeser Cipher Encryptor
+26) Undersocrify substring
+------
+27) Difference between dates
+28) Difference between time
+29) Leap year
+30) Calendar logic to print the day of the date given
+------
+31) AP Series Formulae
+32) GP Series Formulae
+------
+33) Sum of smallest number equal to N
+34) Product of smalles number equal to N
+------
+35) Two sum
+36) Three sum
+------
+37) Diagonal sum of matrix
+38) Submatrix of size n in a matrix
+39) Square of zero's 
+40) Square of 1's
+41) Number of islands
+------
+42) Min no of coins to make Change
+43) No of ways to make Change
+------
+44) Sum of array except self
+45) Product of array except self
+------
+46) Min Jumps
+47) Water Area
+48) Stock buy and sell Maximum profit
+------
+49) Product sum
+50) Permutations
+51) Power set
+52) Lowest Common Ancestor
+------
+53) Reverse letters alone
+55) Reverse vowels alone
+------
+56) Smallest Difference between 2 arrays and within array
+57) Largest difference between 2 arrays and within array
+------
+58) Longest Increasing Subsequence
+59) Longest Common Subsequence
+60) Longest Consecutive Subsequence
+61) Longest palindromic substring
+62) Longest substring without duplication
+63) Levenshtein distance
+------
+64) Min swaps to sort the array
+65) First unique character in a string
+------
+66) Spiral Traversal
+67) ZigZag Traversal(Horizontal and Vertical)
+------
+68) GCD of n numbers
+69) LCM of n numbers
+------
+70) Top K frequent elements in an array
+
