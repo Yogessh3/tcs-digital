@@ -4,12 +4,12 @@ def commonCharacters(str1,str2):
         for j in range(i,len(str2)):
             if str1[i]!=" " and str1[i]==str2[j]:
                 common.add(str1[i])
-    return common
+    return list(common)
 str1=input()
 str2=input()
 output=commonCharacters(str1,str2)
-sortedOutput=sorted(output)
-revOutput=reversed(sortedOutput)
-print(*sortedOutput,sep='')
-print(*revOutput,sep='')
+output.sort()
+print("Normal - ",output)
+output.reverse()
+print("Reverse - ",output)
 

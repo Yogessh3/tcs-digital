@@ -85,7 +85,7 @@ String Problems
 20) How do you remove a given character from String?
 21) Given an array of strings, find the most frequent word in a given array, I mean, the string that appears the most in the array. In the case of a tie, ​the string that is the smallest (lexicographically) ​is printed. 
 
-TCS Digital Previously asked questions
+TCS Digital Previously asked questions (Faceprep)
 
 1) Write a program to find the count of numbers which consists of unique digits.
 Input: Input consist of two Integer lower and upper value of an range
