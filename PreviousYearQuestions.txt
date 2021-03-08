@@ -9,7 +9,7 @@ Write a code to check whether no is prime or not. Condition use function check()
 * Whether the number is positive or not, if it is negative then print the message “please enter the positive number”
 * It is positive then call the function prime and check whether the take positive number is prime or not.
 
-3) Number Series with a Twist – 1
+3) Number Series with a Twist 1
 
 Find the 15th term of the series?   0,0,7,6,14,12,21,18,28
 
@@ -150,7 +150,7 @@ Problem Statement
 One programming language has the following keywords that cannot be used as identifiers: Break, case, continue, default, defer else, for, func, goto, if, map, range, return, struct, type, var
 
 Write a program to find the given word is a keyword or not
- 
+
 
 Case 1
 
