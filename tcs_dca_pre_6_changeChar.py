@@ -6,7 +6,7 @@ for i in range(len(s1)):
     if s1[i] in vow:
         s1[i]="%"
 for i in range(len(s2)):
-    if s2[i] in vow:
+    if s2[i].isalpha() and s2[i] not in vow:
         s2[i]="#"
 for i in range(len(s3)):
     s3[i]=s3[i].upper()
