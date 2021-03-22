@@ -14,24 +14,24 @@
 9) Shifted Binary Search ✅
 10) Binary Search ✅
 ------
-11) Balanced Brackets ✅
+11) Balanced Brackets ✅ ✅
 ------
-12) Prefix Sum array ✅
-13) Suffix Sum array ✅
+12) Prefix Sum array ✅ ✅
+13) Suffix Sum array ✅ ✅
 ------
-14) Kth smallest element ✅
-15) Kth largest element ✅
+14) Kth smallest element ✅ ✅
+15) Kth largest element ✅ ✅
 ------
 16) Sort array of 0's and 1's ✅
 17) Move element to end without relative order 
-18) Rotate array (left and right) ✅
+18) Rotate array (left and right) ✅ ✅
 19) Check if an array is sorted and rotated ✅
 20) Sort the array elements based on frequency 
 21) Sort the array elements based on length 
 ------
-22) Anagram Check ✅
-23) Palindrome check ✅
-24) Group Anagrams ✅
+22) Anagram Check ✅ ✅
+23) Palindrome check ✅ ✅
+24) Group Anagrams ✅ ✅
 25) Caeser Cipher Encryptor ✅
 26) Undersocrify substring 
 ------
@@ -58,8 +58,8 @@
 42) Min no of coins to make Change ✅
 43) No of ways to make Change ✅
 ------
-44) Sum of array except self ✅
-45) Product of array except self ✅
+44) Sum of array except self ✅ ✅
+45) Product of array except self ✅ ✅
 ------
 46) Min Jumps ✅
 47) Water Area ✅

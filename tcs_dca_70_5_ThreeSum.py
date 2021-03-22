@@ -1,6 +1,12 @@
-def large(arr,k):
-    arr.sort()
-    print(arr[-k])
-arr=[9,8,5,6,7]
-k=5
-large(arr,k)
+n=int(input())
+sq=n*n
+str_n=str(n)
+str_sq=str(sq)
+length=len(str_n)
+if(int(n)<0):
+  print("Wrong Input")
+else:
+  if(str_n==str_sq[-length:]):
+    print("Correct Number")
+  else:
+    print("Incorrect Number")

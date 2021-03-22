@@ -1,0 +1,18 @@
+DP Questions
+
+Min coin Change
+Ways to make Change
+-------------------
+Water Area
+Min Jumps to reach the end
+Maxsubset Sum no adjacent
+--------------------
+Levenshtein distance
+Longest Consecutive Subsequence
+Longest palindromic substring
+Longest Common Subsequence
+Longest substring without duplication
+Longest Increasing Subsequence
+Longest Common Prefix
+---------------------
+
