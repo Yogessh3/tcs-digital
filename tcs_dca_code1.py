@@ -11,8 +11,6 @@ def powCheck(num):
         if(num==powNum[-len1:]):
             print("TRUE")
         else:
-            print("FALSE")
-
-            
+            print("FALSE")            
 n=int(input())
 powCheck(n)
