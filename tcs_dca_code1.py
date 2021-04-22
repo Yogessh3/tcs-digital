@@ -12,5 +12,7 @@ def powCheck(num):
             print("TRUE")
         else:
             print("FALSE")
+
+            
 n=int(input())
 powCheck(n)
