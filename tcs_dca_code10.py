@@ -37,6 +37,16 @@ def calcEmpSal(role,employees,roleIncentivePercent):
         emp.salary+=incentive
       ans.append(emp)
   return ans
+for role in roleIncentivePercent:
+  flag=0
+  if(role.lower()==employees[0].role.lower()):
+    incentive=employees[0].salary*roleIncentivePercent[role]/100
+    flag=1
+    break
+if flag==1:
+  print(incentive)
+else:
+  print("Employee Not Found")
 answer=calcEmpSal(role,employees,roleIncentivePercent)
 if not answer:
   print("Employee Not Found")
