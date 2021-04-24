@@ -9,7 +9,7 @@ def powCheck(num):
         len1=len(num)
         len2=len(powNum)
         if(num==powNum[-len1:]):
-            print("YES")
+            print("True")
         else:
             print("False")            
 n=int(input())
